@@ -150,12 +150,10 @@ ul.submenu{
 
 a.submenuTitles:hover+ul.subment, ul.submenu:hover{
   display: block;
-
-a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
-   display: block;
-
 }
-
+a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
+  display: block;
+}
 
 /* New Styles Added Below */
 
