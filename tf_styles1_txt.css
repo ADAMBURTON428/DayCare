@@ -147,19 +147,19 @@ body > footer {
 ul.submenu{
   display: none;
 }
-<<<<<<< HEAD
+
 a.submenuTitles:hover+ul.subment, ul.submenu:hover{
   display: block;
-=======
+
 a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
    display: block;
->>>>>>> origin/master
+
 }
 
 
 /* New Styles Added Below */
 
-<<<<<<< HEAD
+
 /* Moblie Styles:0px */
 @media only screen and (max-width:480px){}
   nav.horizontal a{
@@ -194,7 +194,7 @@ a.submenuTitle:hover+ul.submenu, ul.submenu:hover {
   }
 
 
-=======
+
 /* Mobile Styles:0px to 480px */
 @media only screen and (max-width:480px){}
 nav.horizontal a{
@@ -228,20 +228,20 @@ nav.horizontal::after{
   content: "";
   display: table;
 }
->>>>>>> origin/master
+
 nav.horizontal a.submenuTitle{
   display: none;
 }
 article{
-<<<<<<< HEAD
+
   float:left;
   margin-right: 5%;
   width: 55%
-=======
+
   float: left;
   margin-right: 5%;
   width: 55%;
->>>>>>> origin/master
+
 }
 aside{
   float: left;
